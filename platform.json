@@ -78,7 +78,7 @@
     "framework-arduinoespressif32": {
       "type": "framework",
       "optional": true,
-      "owner": "ji6czd,
+      "owner": "ji6czd",
       "version": "https://github.com/ji6czd/arduino-esp32"
     },
     "framework-espidf": {
