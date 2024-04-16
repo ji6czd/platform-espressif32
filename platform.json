@@ -78,8 +78,8 @@
     "framework-arduinoespressif32": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~3.20014.0"
+      "owner": "ji6czd,
+      "version": "https://github.com/ji6czd/arduino-esp32"
     },
     "framework-espidf": {
       "type": "framework",
